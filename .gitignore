@@ -1,0 +1,13 @@
+*.suo
+*.user
+*.sln.docstates
+*.pdb
+bin/
+debug/
+obj/
+PublishProfiles/
+*.suo
+*.user
+*.dbmdl
+*.nunit
+packages/
